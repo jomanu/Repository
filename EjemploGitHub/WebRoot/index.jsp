@@ -21,11 +21,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    Prueba jose                  manuel <br>
-    Ejemplo de GitHub
-	...................
-------------</br>
-	
+    Prueba jose manuel lucas barrera<br>
+    Ejemplo de GitHub </br>
 	<p>JOSE<p>
   </body>
 </html>
